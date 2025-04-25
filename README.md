@@ -13,7 +13,7 @@ My project is different because it deletes the reactions and thoughts associated
 ```
 npm i to install the node package models. Then npm run build to build the back end.and finally npm run start to run the program. I have also attached a walkthrough video for assistance.
 ```
-[![Watch the video]()](https://photos.google.com/photo/AF1QipNoGmhN0dvKiSjQ0GGrxpI_OYysYloMIUgUrXoA)
+[![Watch the video]()](https://photos.app.goo.gl/h9QJ82YoYk2xovty8)
 
 
 ## Usage
